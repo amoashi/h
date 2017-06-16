@@ -1,5 +1,5 @@
 --Begin Tools.lua :)
-local SUDO = 157059515 -- put Your ID here! <===
+local SUDO = 265821275 -- put Your ID here! <===
 function exi_files(cpath)
     local files = {}
     local pth = cpath
@@ -1265,7 +1265,7 @@ if matches[1] == "helptools" and not Clang and is_mod(msg) then
 if not lang then
 text = [[
 
-_Sudoer And Admins Beyond Bot Help :_
+_Sudoer And Admins YOD Bot Help :_
 
 *!visudo* `[username|id|reply]`
 _Add Sudo_
@@ -1377,7 +1377,7 @@ tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 else
 
 text = [[
-_راهنمای ادمین و سودو های ربات بیوند:_
+_راهنمای ادمین و سودو های ربات یود_
 
 *!visudo* `[username|id|reply]`
 _اضافه کردن سودو_
@@ -1493,7 +1493,7 @@ if matches[1] == "راهنمای ابزار" and Clang and is_mod(msg) then
 if not lang then
 text = [[
 
-_Sudoer And Admins Beyond Bot Help :_
+_Sudoer And Admins Yod Bot Help :_
 
 *سودو* `[username|id|reply]`
 _Add Sudo_
@@ -1603,7 +1603,7 @@ tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 else
 
 text = [[
-_راهنمای ادمین و سودو های ربات بیوند:_
+_راهنمای ادمین و سودو های ربات یود_
 
 *سودو* `[username|id|reply]`
 _اضافه کردن سودو_
